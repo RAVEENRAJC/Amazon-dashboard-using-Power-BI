@@ -13,7 +13,7 @@ This project presents a visually rich **Power BI dashboard** that analyzes Amazo
 ## 🛠 Tools Used
 
 - Microsoft Power BI
-- Data Source: Cleaned and preprocessed data from [Amazon Dataset] (https://github.com/RAVEENRAJC/Amazon-dashboard-using-Power-BI/blob/main/amazon_prime_titles.csv)
+- Data Source: Cleaned and preprocessed data from ![Amazon Dataset] (https://github.com/RAVEENRAJC/Amazon-dashboard-using-Power-BI/blob/main/amazon_prime_titles.csv)
 - Excel / Python (for optional preprocessing)
 
 ## 📂 Project Structure
