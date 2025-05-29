@@ -21,7 +21,7 @@ This project presents a visually rich **Power BI dashboard** that analyzes Amazo
 
 ## 📸 Dashboard Preview
 
-![Amazon Dashboard](./screenshots/overview.png)
+![Amazon Dashboard](https://github.com/RAVEENRAJC/Amazon-dashboard-using-Power-BI/blob/main/dashboard.png)
 
 ## 💡 Getting Started
 
